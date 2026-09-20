@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sabbirakash/SQL_Job_Analysis_Project/blob/main/Customer%20Shopping%20Behaviour%20Analysis%20Banner.png">
+</p>
+
 # Inroduction
 
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
