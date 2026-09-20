@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sabbirakash/SQL_Job_Analysis_Project/blob/main/Customer%20Shopping%20Behaviour%20Analysis%20Banner.png">
+  <img src="https://github.com/sabbirakash/SQL_Job_Analysis_Project/blob/main/Job%20Market%20Analysis%20Banner.png">
 </p>
 
 # Inroduction
